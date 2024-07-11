@@ -8,3 +8,5 @@ Simple discord code bot in python with the feature of check your ping, with `pin
 2. enter discord bot TOKEN
 3. !ping
 ```
+
+# DON'T FORGET TO STAR THIS REPOS :)
